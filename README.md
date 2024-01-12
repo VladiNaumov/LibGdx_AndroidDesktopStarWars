@@ -1,1 +1,3 @@
-# LibGdx_StarWarsGames
+### LibGdx_StarWarsGames
+Aleks Kutepov
+
